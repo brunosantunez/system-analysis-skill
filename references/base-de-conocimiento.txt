@@ -1,0 +1,119 @@
+RESUMEN: SISTEMAS DE INFORMACIÓN Y EXPORTACIÓN
+
+Este resumen reúne los materiales sobre sistemas de información, su planificación, evaluación, análisis y diseño, junto con los contenidos sobre sistemas ERP, CRM y SCM y el proceso de exportación de mercancías desde Argentina.
+
+1. SISTEMAS DE INFORMACIÓN: CONCEPTO Y FUNCIÓN
+
+Un sistema de información es un conjunto organizado de procesos que captura datos, los almacena y procesa, y los transforma en información útil para las operaciones, el control y la toma de decisiones de una organización. Incluye personas, procedimientos, datos, equipos, programas, bases de datos y telecomunicaciones. Por eso, un sistema de información no se reduce a computadoras o software: también comprende cómo se organiza el trabajo y qué información necesita cada usuario.
+
+Sus objetivos principales son apoyar la estrategia y las actividades de la organización, facilitar el control de sus procesos, responder a necesidades de información cambiantes y permitir que los usuarios obtengan información confiable y oportuna. Para cumplirlos, el sistema debe procesar datos con precisión, evitar duplicaciones, proteger la información y producir resultados útiles.
+
+Los sistemas pueden clasificarse por su formalidad, nivel de automatización, área funcional o nivel de decisión. Una clasificación por niveles organizacionales distingue:
+- Sistemas de procesamiento de operaciones (SPO): registran actividades rutinarias, como nóminas, pedidos y movimientos de inventario.
+- Sistemas de trabajo del conocimiento (STC): ayudan a crear, organizar e integrar conocimiento especializado.
+- Sistemas de automatización de oficinas (SAO): facilitan tareas de oficina mediante procesadores de texto, correo, agendas y hojas de cálculo.
+- Sistemas de información para la administración (SIA): generan informes para la planificación, el control y la gestión intermedia.
+- Sistemas de soporte de decisiones (SSD): permiten analizar datos y modelos para resolver problemas que no tienen una respuesta rutinaria.
+- Sistemas de soporte gerencial (SSG): presentan información estratégica para la alta dirección.
+
+2. EVOLUCIÓN Y VALOR ESTRATÉGICO
+
+La evolución suele describirse en seis etapas: iniciación, cuando se automatizan tareas básicas; contagio, cuando las aplicaciones se expanden sin suficiente coordinación; control, cuando la dirección busca ordenar costos e inversiones; integración, cuando se conectan los sistemas de distintas áreas; administración de la información, cuando esta adquiere valor estratégico; y madurez, cuando los sistemas apoyan la innovación y las decisiones de alto nivel.
+
+Un sistema puede dar ventaja competitiva si permite reducir costos, diferenciar productos o servicios, atender mejor un segmento del mercado, fortalecer la relación con clientes y proveedores o responder a la competencia. Para lograrlo, debe alinearse con los objetivos del negocio. La tecnología por sí sola no garantiza una mejora.
+
+3. PLANIFICACIÓN DE SISTEMAS DE INFORMACIÓN
+
+La planificación identifica qué información necesita la organización y define cómo los sistemas ayudarán a cumplir sus objetivos. Incluye comprender las necesidades, establecer prioridades, evaluar tecnologías, diseñar una solución, implementarla, capacitar a los usuarios, supervisar sus resultados y mantenerla actualizada. Es un proceso continuo porque cambian la organización, sus necesidades y las tecnologías disponibles.
+
+Un modelo de planificación organiza el trabajo en tres niveles:
+- Estratégico: vincula los objetivos del sistema con la estrategia general y establece prioridades.
+- Táctico: define recursos, responsabilidades, plazos, especificaciones y riesgos.
+- Operativo: ejecuta el plan, desarrolla o configura el sistema, realiza pruebas y capacita a los usuarios.
+
+La planificación debe considerar los componentes del sistema: equipos, programas, bases de datos, redes y telecomunicaciones, personas y procedimientos. También conviene comparar metodologías según su enfoque, participación de los interesados, horizonte temporal, flexibilidad, uso de tecnología, forma de implementación y mecanismos de seguimiento.
+
+4. VIABILIDAD Y FACTIBILIDAD
+
+Antes de invertir recursos, se evalúa si el proyecto puede producir beneficios y si puede ejecutarse bajo las restricciones existentes. La viabilidad considera su potencial de éxito y sostenibilidad, incluidos los aspectos técnicos, económicos y organizativos. La factibilidad analiza si la solución es realizable con el tiempo, el presupuesto, el personal y la tecnología disponibles.
+
+El estudio suele abarcar:
+- Riesgos y desafíos: identificar obstáculos y definir medidas para reducir sus efectos.
+- Costos y beneficios: comparar la inversión y los gastos de operación con los beneficios esperados; pueden usarse proyecciones financieras y cálculos de retorno.
+- Factibilidad técnica: comprobar que existen tecnología, infraestructura y conocimientos adecuados.
+- Demanda o necesidad: verificar que el producto, servicio o sistema responde a una necesidad real.
+- Factibilidad legal y regulatoria: revisar las normas que afectan el proyecto.
+- Factibilidad operativa: determinar si la organización puede utilizar y mantener la solución.
+- Viabilidad organizativa: analizar si la estructura y las personas pueden asumir los cambios necesarios.
+
+Las hojas de cálculo, los programas de modelado y las plantillas son herramientas. Métodos como el análisis FODA son técnicas. La evaluación permite comparar alternativas y decidir si conviene avanzar, modificar la propuesta o descartarla.
+
+5. ANÁLISIS DEL SISTEMA
+
+El análisis estudia el sistema actual o la necesidad que se quiere atender y establece qué debe hacer la solución. Primero se delimitan el alcance y los procesos incluidos; luego se recopila información mediante entrevistas, encuestas, observación y revisión de documentos. A partir de esos datos se modelan procesos, entradas y salidas, se identifican requisitos funcionales y no funcionales, se priorizan y se validan con usuarios y otras partes interesadas. Por último, se documentan los resultados y se analizan los riesgos.
+
+Las entrevistas y los talleres ayudan a conocer necesidades y reglas de trabajo. La observación muestra cómo se realizan las tareas. El análisis documental permite revisar formularios, normas y procedimientos existentes. Los casos de uso y los diagramas de flujo de datos representan interacciones y procesos. Las herramientas de diagramación, prototipado, encuestas y gestión de requisitos apoyan estas actividades.
+
+La validación con los interesados evita que el equipo diseñe a partir de supuestos. Los requisitos deben quedar claros, priorizados y sujetos a un proceso acordado de aprobación y gestión de cambios.
+
+6. DISEÑO DEL SISTEMA
+
+El diseño convierte los requisitos validados en una descripción concreta que guiará el desarrollo. Define la arquitectura y los componentes, la interfaz y la navegación, la estructura de datos, los procesos y reglas de negocio, la seguridad, los informes y las pruebas.
+
+El proceso incluye revisar requisitos, planificar tareas y recursos, diseñar la arquitectura, elaborar interfaces o prototipos, modelar la base de datos, detallar procesos, establecer controles de seguridad, definir casos y criterios de prueba, validar el diseño, documentarlo y obtener la aprobación de los interesados. Las etapas pueden repetirse cuando la revisión revela ajustes necesarios.
+
+Entre las técnicas habituales están los diagramas de arquitectura, wireframes y prototipos, diagramas entidad-relación y diagramas de procesos. El diseño de seguridad contempla políticas, permisos, protección de datos y controles de acceso. El plan de pruebas debe cubrir funciones, rendimiento y criterios de aceptación.
+
+7. DESARROLLO, IMPLEMENTACIÓN Y MANTENIMIENTO
+
+El ciclo tradicional de desarrollo comprende definir el proyecto, analizar necesidades y factibilidad, diseñar, programar, probar, convertir al nuevo sistema y mantenerlo en producción. Las pruebas pueden revisar cada programa, el sistema integrado y la aceptación de los usuarios. Para reemplazar el sistema anterior se puede hacer una transición en paralelo, un cambio directo o una prueba piloto en un área limitada.
+
+También existen alternativas: crear prototipos y mejorarlos con la opinión de los usuarios; comprar paquetes de software; permitir que los usuarios desarrollen herramientas propias; o contratar a un proveedor externo. Cada opción implica diferencias de costo, rapidez, adaptación, control, calidad y dependencia. La organización debe elegir según la complejidad del proyecto y sus recursos.
+
+Los proyectos pueden fracasar cuando no responden a la estrategia, la dirección no los apoya, las necesidades se relevaron mal, los usuarios participaron poco o el personal no recibió capacitación. El seguimiento, la formación y la participación de las áreas afectadas ayudan a que el sistema se use y aporte resultados.
+
+8. ARQUITECTURA DE LA INFORMACIÓN
+
+La arquitectura de la información organiza los datos y recursos para que las personas puedan encontrar y utilizar lo que necesitan. Incluye una taxonomía de categorías, jerarquías entre contenidos, etiquetas y metadatos, navegación lógica, búsqueda y recuperación, e interfaces fáciles de comprender. Una organización clara mejora la usabilidad y reduce el tiempo necesario para localizar información.
+
+9. ERP, CRM Y SCM
+
+ERP (planificación de recursos empresariales): integra procesos como ventas, compras, producción, logística, finanzas, inventarios y recursos humanos. Suele organizarse en módulos que comparten datos. Puede mejorar la coordinación y ofrecer información coherente, aunque su implementación puede ser costosa y exige datos completos y consistentes.
+
+CRM (gestión de relaciones con clientes): reúne información de clientes y contactos para apoyar las actividades comerciales, conocer necesidades y organizar futuras interacciones. Puede ayudar a personalizar ofertas y mantener herramientas de venta disponibles. Los costos de licencias e implementación pueden ser altos; existen también alternativas con licencias abiertas.
+
+SCM (gestión de la cadena de suministro): coordina compras, abastecimiento, producción, almacenamiento, preparación, distribución y servicio posventa, tanto dentro de una empresa como entre organizaciones. Una visión integrada puede mejorar el uso de recursos y el servicio al cliente. La competencia, la distancia entre proveedores y mercados y los costos logísticos son desafíos relevantes.
+
+10. EXPORTACIÓN DE MERCANCÍAS DESDE ARGENTINA
+
+La exportación requiere preparar a la empresa, identificar un mercado y comprador, conocer las reglas aplicables, acordar la venta y el transporte, presentar la documentación aduanera y coordinar los requisitos de importación del destino. La guía detallada utilizada como fuente está fechada el 20 de septiembre de 2023 y tiene carácter orientativo; antes de operar deben comprobarse los requisitos vigentes ante organismos y profesionales competentes.
+
+Preparación y selección del mercado:
+- Evaluar si el producto ya tiene demanda, si la empresa dispone de personal, tiempo y financiamiento, y si la dirección apoya la expansión.
+- Revisar la capacidad de adaptar el producto a preferencias, normas y condiciones de otros países, y proteger la propiedad intelectual.
+- Comparar mercados por demanda, competencia, costos y condiciones de acceso. Las estadísticas de importación pueden mostrar oportunidades o barreras.
+- Buscar compradores mediante ferias, rondas de negocios, agencias de promoción, cámaras, plataformas y directorios comerciales.
+- Investigar acuerdos comerciales y preferencias arancelarias. La aplicación de preferencias suele depender del cumplimiento de reglas de origen y de la documentación correspondiente.
+
+Requisitos y costos:
+- Determinar la posición arancelaria del producto. El código permite identificar la mercancía y consultar tributos, restricciones, licencias e intervenciones.
+- Comprobar las reglas argentinas de exportación y las restricciones de importación del destino.
+- Estimar aranceles, tasas, impuestos, transporte y otros costos. La guía menciona reintegros, drawback y reembolsos como posibles regímenes de estímulo, sujetos a sus condiciones.
+- Revisar requisitos técnicos, sanitarios, fitosanitarios, de seguridad, envase y etiquetado. También conviene conocer normas privadas o certificaciones voluntarias que influyen en el acceso comercial.
+- Comprobar la protección de marcas, diseños, patentes y otros derechos en el país de destino.
+
+Venta, responsabilidades y transporte:
+El contrato debe establecer las obligaciones del vendedor y el comprador. Los Incoterms ayudan a distribuir responsabilidades por transporte, seguro, entrega y trámites aduaneros. Por ejemplo, en FOB el vendedor cubre los costos y trámites hasta la carga en el puerto acordado; en CIF asume además flete y seguro hasta el puerto de destino, según las condiciones aplicables. Un despachante de aduana o profesional de comercio exterior puede colaborar con clasificación, reservas, embalaje, seguros y documentos.
+
+Documentación y despacho:
+Los documentos dependen del producto, transporte y país de destino. Pueden incluir factura comercial, lista de empaque, conocimiento de embarque, certificado de origen, certificados sanitarios o de calidad, certificado de seguro, declaración aduanera o permiso de embarque, licencias y permisos específicos. El material sobre exportación marítima también enumera el Documento Único Administrativo (DUA); la exigencia concreta debe verificarse para la operación.
+
+La declaración de exportación argentina se presenta antes de la salida de la mercancía y la tramita normalmente un despachante de aduana mediante el sistema aduanero correspondiente. La autoridad puede liberar la carga con control documental básico, pedir documentos adicionales o realizar también una inspección física. En destino, el comprador y el exportador deben coordinar con anticipación factura, lista de empaque, licencias, certificados y prueba de origen cuando corresponda.
+
+11. SISTEMA DE INFORMACIÓN PARA GESTIONAR EXPORTACIONES
+
+Uno de los materiales propone desarrollar una aplicación web para coordinar exportaciones de productos al mercado europeo, con una base de datos segura y protección de información confidencial conforme a las normas de privacidad aplicables. A partir de ese objetivo, el sistema debería centralizar productos, clientes y mercados; registrar requisitos, posiciones arancelarias, certificados y vencimientos; gestionar cotizaciones, pedidos, documentos y tareas; organizar transporte, seguros e hitos de despacho; asignar responsables; y mostrar estados, alertas e informes de costos y avance. Los permisos de acceso, el registro de cambios y las medidas de seguridad deben proteger los datos. Estas funciones son una síntesis derivada del objetivo y de los procesos descritos en los materiales.
+
+IDEA CENTRAL
+
+Un sistema de información funciona bien cuando parte de una necesidad real, se alinea con los objetivos de la organización y se diseña con participación de sus usuarios. La evaluación previa, el análisis claro, la seguridad, las pruebas, la capacitación y el mantenimiento sostienen su utilidad. En una exportación, el mismo principio se aplica a la gestión: la información comercial, documental, logística y regulatoria debe estar coordinada para reducir errores y permitir decisiones oportunas.
